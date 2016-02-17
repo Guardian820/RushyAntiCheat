@@ -1,0 +1,7 @@
+name: AntiCheat
+version: 1.0
+authors: [Quentixx, Itz_Kiwix, Fatapix]
+main: fr.rushy.anticheat.AntiCheat
+depend: [ProtocolLib]
+description: RUSHY ANTICHEAT
+website: www.rushy.fr
